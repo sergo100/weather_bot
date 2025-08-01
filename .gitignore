@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+user_data.json
+.env
+*.pem
+*.key
+*.pub
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+.ssh/
+assets/
